@@ -1,2 +1,2 @@
 # javascriptbasico
-Básico em Javascript
+Comandos básicos em Javascript
